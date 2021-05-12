@@ -5,8 +5,8 @@ use Yii;
 use yii\base\InvalidArgumentException;
 use yii\web\BadRequestHttpException;
 use yii\web\Controller;
-use app\models\Clients;
-use app\models\Bonuses;
+use common\models\Clients;
+use common\models\Bonuses;
 use yii\helpers\VarDumper;
 
 

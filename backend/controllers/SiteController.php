@@ -6,8 +6,8 @@ use yii\web\Controller;
 use yii\filters\VerbFilter;
 use yii\filters\AccessControl;
 use common\models\LoginForm;
-use app\models\Clients;
-use app\models\Bonuses;
+use common\models\Clients;
+use common\models\Bonuses;
 
 /**
  * Site controller

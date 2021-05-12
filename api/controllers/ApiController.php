@@ -6,8 +6,8 @@ use yii\base\InvalidArgumentException;
 use yii\base\ErrorException;
 use yii\web\ForbiddenHttpException;
 use yii\web\Controller;
-use app\models\Clients;
-use app\models\Bonuses;
+use common\models\Clients;
+use common\models\Bonuses;
 
 /**
  * Api controller
